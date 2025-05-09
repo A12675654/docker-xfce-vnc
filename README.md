@@ -16,7 +16,7 @@ Aquest projecte permet crear una imatge de Docker basada en **Ubuntu 24.04** amb
 ## Passos per crear i executar el contenidor
 
 ### 1. Clonar el repositori
-git clone https://github.com/yourusername/docker-xfce-vnc.git
+git clone https://github.com/A12675654/docker-xfce-vnc
 cd docker-xfce-vnc
 
 ### 2. Crear la imatge
