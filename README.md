@@ -25,3 +25,5 @@ sudo docker build -t xfce-vnc .
 ### 3. Executar el contenidor
 sudo docker run -d --name xfce-vnc-container -p 5901:5901 -p 2222:22 xfce-vnc
 
+### 4. Executar la comanda:
+DISPLAY=:1 code --no-sandbox
